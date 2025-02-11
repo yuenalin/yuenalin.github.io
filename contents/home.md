@@ -9,7 +9,7 @@ yuenalin [at] 126.com
 
 #### Education
 Ph.d, Computer Science and Technology, Beijing University of Technology, 2024-2028 (expected).\
-M.E., Computer System Architecture, Fuzhou University, 2020-2023 (expected).\
+M.E., Computer System Architecture, Fuzhou University, 2020-2023.\
 B.E., Computer Science and Technology, Fujian Normal University, 2016-2020.
 
 #### Research Interests
