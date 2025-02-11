@@ -16,8 +16,8 @@ B.E., Computer Science and Technology, Fujian Normal University, 2016-2020.
 Graph representation learning, fuzzy deep neural network.
 
 #### Reviewers
-International Conference on Learning Representations (ICLR)
-IEEE Transactions on Fuzzy Systems (TFS)
-Applied Soft Computing (ASOC)
-Complex & Intelligent Systems (CAIS)
+International Conference on Learning Representations (ICLR).\
+IEEE Transactions on Fuzzy Systems (TFS).\
+Applied Soft Computing (ASOC).\
+Complex & Intelligent Systems (CAIS).\
 Neurocomputing
