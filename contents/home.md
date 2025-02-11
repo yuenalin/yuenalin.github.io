@@ -2,7 +2,7 @@
 
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-Yuena Lin is currently pursuing a Ph.D. degree at Beijing University of Technology, under the supervision of Professors Zhen Yang and Gengyu Lyu. His research interests primarily focus on graph representation learning, fuzzy deep neural networks, and contrastive learning. He has published several papers in top-tier conferences and journals, including IEEE Transactions on Fuzzy Systems, IEEE Transactions on Computational Social Systems, AAAI Conference on Artificial Intelligence, and Internaltional Conference on Learning Representations. His work often explores innovative approaches to enhance graph contrastive learning and multi-view learning.
+Yuena Lin is currently pursuing a Ph.D. degree at Beijing University of Technology, under the supervision of Professors Zhen Yang and Gengyu Lyu. His research interests primarily focus on graph representation learning, fuzzy deep neural networks, and contrastive learning. He has published several papers in top-tier conferences and journals, including Internaltional Conference on Learning Representations (ICLR), AAAI Conference on Artificial Intelligence (AAAI), and IEEE Transactions on Fuzzy Systems (TFS). His work often explores innovative approaches to enhance graph contrastive learning and multi-view learning.
 
 #### Email
 yuenalin [at] 126.com
