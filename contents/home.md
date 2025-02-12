@@ -12,6 +12,12 @@ Ph.d, Computer Science and Technology, Beijing University of Technology, 2024-20
 M.E., Computer System Architecture, Fuzhou University, 2020-2023.\
 B.E., Computer Science and Technology, Fujian Normal University, 2016-2020.
 
+## 📢 News
+
+- **2023-10-15**: 发布了新版本 v1.2.0，新增了 XX 功能。
+- **2023-09-30**: 论文《XXX》被 XXX 会议接收。
+- **2023-08-20**: 项目获得了 XXX 奖项。
+
 #### Research Interests
 Graph representation learning, fuzzy deep neural network.
 
