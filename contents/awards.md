@@ -1,1 +1,2 @@
-- The Grand Prize Scholarship for Postgraduates of Fuzhou University, 2020.
+- The Second-Prize Scholarship, Fuzhou University, 2022.
+- The Grand Prize Scholarship for Postgraduates, Fuzhou University, 2020.
