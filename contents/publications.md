@@ -1,18 +1,18 @@
 <table>
   <tr>
     <!-- 左边放图片 -->
-    <td width="30%">
-      <img src="static/assets/img/person.jpg" alt="图1: 论文中的小图" width="100%">
+    <td width="20%">
+      <img src="static/assets/publication/iclr25_enhance_multi_view.png" alt="图1: 论文中的小图" width="50%">
     </td>
     <!-- 右边放论文介绍 -->
     <td width="70%">
-      <h3>论文标题</h3>
+      <h3>Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary</h3>
       <p>
-        这里是论文的简要介绍。可以包括研究背景、方法、结果等内容。
-        这里是论文的简要介绍。可以包括研究背景、方法、结果等内容。
-        这里是论文的简要介绍。可以包括研究背景、方法、结果等内容。
+        <strong>Y. Lin</strong>, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.
+        We propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.
+        We propose a novel self-adaptive expanded boundary to tackle the ambiguous decision boundaries. By integrating the expanded boundary into the prototype-scale alignment module, the inter-class difference is reinforced to clear the ambiguous decision boundaries, while the representations inside the boundary are tightened.
+        We explain the rationality of the model design theoretically, and extensive experimental results across diverse public datasets and comprehensive experimental analysis have verified that the proposed model shows significant superiority against the existing stateof-the-art models.
       </p>
-      <p><strong>关键词：</strong>关键词1, 关键词2, 关键词3</p>
     </td>
   </tr>
 </table>
