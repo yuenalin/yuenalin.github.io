@@ -1,11 +1,11 @@
 <table>
   <tr>
     <!-- 左边放图片 -->
-    <td width="30%">
+    <td width="40%">
       <img src="static/assets/publication/iclr25_enhance_multi_view.png" alt="图1: 论文中的小图" width="50%">
     </td>
     <!-- 右边放论文介绍 -->
-    <td width="70%">
+    <td width="60%">
       <h3>Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary</h3>
       <p>
         <strong>Y. Lin</strong>, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.
