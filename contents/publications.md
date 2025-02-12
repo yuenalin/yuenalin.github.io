@@ -1,7 +1,7 @@
 <table>
   <tr>
     <!-- 左边放图片 -->
-    <td width="20%">
+    <td width="30%">
       <img src="static/assets/publication/iclr25_enhance_multi_view.png" alt="图1: 论文中的小图" width="50%">
     </td>
     <!-- 右边放论文介绍 -->
