@@ -12,9 +12,6 @@ Ph.d, Computer Science and Technology, Beijing University of Technology, 2024-20
 M.E., Computer System Architecture, Fuzhou University, 2020-2023.\
 B.E., Computer Science and Technology, Fujian Normal University, 2016-2020.
 
-## 📢 News
-- **2025.1.23**: One paper has beed accpeted by ICLR.
-
 #### Research Interests
 Graph representation learning, fuzzy deep neural network.
 
@@ -24,3 +21,6 @@ IEEE Transactions on Fuzzy Systems (TFS).\
 Applied Soft Computing (ASOC).\
 Complex & Intelligent Systems (CAIS).\
 Neurocomputing
+
+## 📢 News
+- **2025.1.23**: One paper has beed accpeted by ICLR.
