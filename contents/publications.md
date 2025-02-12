@@ -72,6 +72,22 @@
   </tr>
 </table>
 
+<div style="font-size: 14px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 40%; padding-right: 20px;">
+    <img src="https://github.com/用户名/仓库名/raw/main/images/figure1.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+    <h3 style="font-size: 16px;">论文标题</h3>
+    <p>
+      这里是论文的简要介绍。可以包括研究背景、方法、结果等内容。
+      这里是论文的简要介绍。可以包括研究背景、方法、结果等内容。
+    </p>
+    <p><strong>关键词：</strong>关键词1, 关键词2, 关键词3</p>
+  </div>
+</div>
+
 <!-- - <strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen. Multiple Views to Free Graph Augmentations, IEEE Transactions on Computational Social Systems. 11(3): 3290-3230, 2024. (JCR Q1, CCF C) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10342655/) -->
 
 - H. Wei, Y. Deng, Q. Hai, <strong>Y. Lin</strong>, Z. Yang, G. Lyu. Multi-View Multi-Label Classification via View-Label Matching Selection, AAAI Conference on Artificial Intelligence, 2025. (CCF A)
