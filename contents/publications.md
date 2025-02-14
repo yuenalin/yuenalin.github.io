@@ -75,16 +75,15 @@
 <div style="font-size: 14px; display: flex; align-items: center;">
   <!-- 左边放图片 -->
   <div style="flex: 40%; padding-right: 20px;">
-    <img src="https://github.com/用户名/仓库名/raw/main/images/figure1.png" alt="图1: 论文中的小图" width="100%">
+    <img src="../static/assets/publication/iclr25_enhance_multi_view.png" alt="图1: 论文中的小图" width="100%">
   </div>
   <!-- 右边放论文介绍 -->
   <div style="flex: 50%;">
-    <h3 style="font-size: 16px;">论文标题</h3>
-    <p>
-      这里是论文的简要介绍。可以包括研究背景、方法、结果等内容。
-      这里是论文的简要介绍。可以包括研究背景、方法、结果等内容。
-    </p>
-    <p><strong>关键词：</strong>关键词1, 关键词2, 关键词3</p>
+      <h3>Multiple Views to Free Graph Augmentations</h3>
+      <p>
+        <strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10342655/)
+        Graph augmentations would cause troublesome problems, and we design a multi-view learning model to free the graph augmentations. Specifically, we propose a fuzzy view of the crisp view and explain that the fuzzy view could generate the adaptive hard positives for the raw graph. By learning the hard positives, we give up the need for graph augmentations. 
+      </p>
   </div>
 </div>
 
