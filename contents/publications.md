@@ -3,7 +3,7 @@
 <div style="font-size: 17px; display: flex; align-items: center;">
   <!-- 左边放图片 -->
   <div style="flex: 30%; padding-right: 20px;">
-    <img src="../static/assets/publication/tfs23_fuzzy_representation.png" alt="图1: 论文中的小图" width="100%">
+    <img src="../static/assets/publication/iclr25_enhance_multi_view.png" alt="图1: 论文中的小图" width="100%">
   </div>
   <!-- 右边放论文介绍 -->
   <div style="flex: 50%;">
@@ -35,7 +35,7 @@
 <div style="font-size: 17px; display: flex; align-items: center;">
   <!-- 左边放图片 -->
   <div style="flex: 30%; padding-right: 20px;">
-    <img src="../static/assets/publication/iclr25_enhance_multi_view.png" alt="图1: 论文中的小图" width="100%">
+    <img src="../static/assets/publication/tfs23_fuzzy_representation.png" alt="图1: 论文中的小图" width="100%">
   </div>
   <!-- 右边放论文介绍 -->
   <div style="flex: 50%;">
