@@ -9,10 +9,8 @@
   <div style="flex: 50%;">
       <h3>Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary</h3>
       <a href="https://openreview.net/pdf?id=t1J2CnDFwj" target="_blank">[Paper]</a>
-      <p>
-        <strong>Y. Lin</strong>, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.
-        In this paper, we propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.
-      </p>
+      <p><strong>Y. Lin</strong>, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.</p>
+      <p>In this paper, we propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.</p>
   </div>
 </div>
 
@@ -27,10 +25,8 @@
   <div style="flex: 50%;">
       <h3>Fuzzy Neural Network for Representation Learning on Uncertain Graphs</h3>
       <a href="https://ieeexplore.ieee.org/abstract/document/10571582/" target="_blank">[Paper]</a>
-      <p>
-        <strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen.
-        In this paper, we propose a general fuzzy representation framework that transforms a crisp graph encoder into a fuzzy graph encoder. The fuzzy encoder could generate interval representations by considering the data uncertainties. Then the interval representations are defuzzified to filter out the uncertainties.
-      </p>
+      <p><strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen.</p>
+      <p>In this paper, we propose a general fuzzy representation framework that transforms a crisp graph encoder into a fuzzy graph encoder. The fuzzy encoder could generate interval representations by considering the data uncertainties. Then the interval representations are defuzzified to filter out the uncertainties.</p>
   </div>
 </div>
 
@@ -45,10 +41,8 @@
   <div style="flex: 50%;">
       <h3>Fuzzy Representation Learning on Graphs</h3>
       <a href="https://ieeexplore.ieee.org/abstract/document/10061283/" target="_blank">[Paper]</a>
-      <p>
-        C. Zhang, <strong>Y. Lin</strong>, C. Chen, H. Yao, H. Cai, W. Fang.
-        In this paper, a fuzzy graph encoder is proposed to extract the hidden fuzzy knowledge in the features. We explain why integrating fuzzy knowledge into the crisp representations could improve the expressiveness and model performance.
-      </p>
+      <p>C. Zhang, <strong>Y. Lin</strong>, C. Chen, H. Yao, H. Cai, W. Fang.</p>
+      <p>In this paper, a fuzzy graph encoder is proposed to extract the hidden fuzzy knowledge in the features. We explain why integrating fuzzy knowledge into the crisp representations could improve the expressiveness and model performance.</p>
   </div>
 </div>
 
@@ -64,10 +58,8 @@
   <div style="flex: 50%;">
       <h3>Multiple Views to Free Graph Augmentations</h3>
       <a href="https://ieeexplore.ieee.org/abstract/document/10342655/" target="_blank">[Paper]</a>
-      <p>
-        <strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen.
-        Graph augmentations would cause troublesome problems, and we design a multi-view learning model to free the graph augmentations. Specifically, we propose a fuzzy view of the crisp view and explain that the fuzzy view could generate the adaptive hard positives for the raw graph. By learning the hard positives, we give up the need for graph augmentations. 
-      </p>
+      <p><strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen.</p>
+      <p>Graph augmentations would cause troublesome problems, and we design a multi-view learning model to free the graph augmentations. Specifically, we propose a fuzzy view of the crisp view and explain that the fuzzy view could generate the adaptive hard positives for the raw graph. By learning the hard positives, we give up the need for graph augmentations.</p>
   </div>
 </div>
 
