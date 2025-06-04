@@ -23,4 +23,5 @@ Complex & Intelligent Systems (CAIS).\
 Neurocomputing
 
 ## 📢 News
-- **2025.1.23**: One paper has beed accpeted by ICLR.
+- **2025.05**: One paper has beed accpeted by ICML.
+- **2025.01**: One paper has beed accpeted by ICLR.

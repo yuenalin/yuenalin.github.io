@@ -1,3 +1,17 @@
+<div style="font-size: 17px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="../static/assets/publication/icml25_mitigate.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+      <h3>Mitigating Local Cohesion and Global Sparseness in Graph Contrastive Learning with Fuzzy Boundaries</h3>
+      <a src="../static/assets/publication/icml25_mitigate.pdf" target="_blank">[Paper]</a>
+      <p><strong>Y. Lin</strong>, H. Cai, J. Wang, H. Wang, Z. Yang, G. Lyu.</p>
+      <p>The 42nd Internation Conference on Machine Learning, 2025.</p>
+  </div>
+</div>
+
 
 
 <div style="font-size: 17px; display: flex; align-items: center;">
@@ -10,7 +24,7 @@
       <h3>Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary</h3>
       <a href="https://openreview.net/pdf?id=t1J2CnDFwj" target="_blank">[Paper]</a>
       <p><strong>Y. Lin</strong>, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.</p>
-      <p>In this paper, we propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.</p>
+      <p>The 13rd Internation Conference on Learning Representations, 2025.</p>
   </div>
 </div>
 
@@ -26,7 +40,7 @@
       <h3>Fuzzy Neural Network for Representation Learning on Uncertain Graphs</h3>
       <a href="https://ieeexplore.ieee.org/abstract/document/10571582/" target="_blank">[Paper]</a>
       <p><strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen.</p>
-      <p>In this paper, we propose a general fuzzy representation framework that transforms a crisp graph encoder into a fuzzy graph encoder. The fuzzy encoder could generate interval representations by considering the data uncertainties. Then the interval representations are defuzzified to filter out the uncertainties.</p>
+      <p>IEEE Transactions on Fuzzy Systems, Volume 32(9), Pages 5259-5271, 2024.</p>
   </div>
 </div>
 
@@ -42,7 +56,7 @@
       <h3>Fuzzy Representation Learning on Graphs</h3>
       <a href="https://ieeexplore.ieee.org/abstract/document/10061283/" target="_blank">[Paper]</a>
       <p>C. Zhang, <strong>Y. Lin</strong>, C. Chen, H. Yao, H. Cai, W. Fang.</p>
-      <p>In this paper, a fuzzy graph encoder is proposed to extract the hidden fuzzy knowledge in the features. We explain why integrating fuzzy knowledge into the crisp representations could improve the expressiveness and model performance.</p>
+      <p>IEEE Transactions on Fuzzy Systems, Volume 31(10), Pages 3358-3370, 2023.</p>
   </div>
 </div>
 
@@ -59,7 +73,7 @@
       <h3>Multiple Views to Free Graph Augmentations</h3>
       <a href="https://ieeexplore.ieee.org/abstract/document/10342655/" target="_blank">[Paper]</a>
       <p><strong>Y. Lin</strong>, H. Cai, C. Zhang, C. Chen.</p>
-      <p>Graph augmentations would cause troublesome problems, and we design a multi-view learning model to free the graph augmentations. Specifically, we propose a fuzzy view of the crisp view and explain that the fuzzy view could generate the adaptive hard positives for the raw graph. By learning the hard positives, we give up the need for graph augmentations.</p>
+      <p>IEEE Transactions on Computational Social Systems, Volume 11(3), Pages 3920-3930, 2024.</p>
   </div>
 </div>
 
