@@ -1,3 +1,5 @@
+
+
 <div style="font-size: 17px; display: flex; align-items: center;">
   <!-- 左边放图片 -->
   <div style="flex: 30%; padding-right: 20px;">
@@ -12,7 +14,19 @@
   </div>
 </div>
 
-
+<div style="font-size: 17px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="../static/assets/publication/ijcai25_critical_node.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+      <h3>Critical Node-aware Augmentation for Hypergraph Contrastive Learning</h3>
+      <!-- <a src="../static/assets/publication/icml25_mitigate.pdf" target="_blank">[Paper]</a> -->
+      <p>Z. Li, <strong>Y. Lin</strong>, Y. Wang, W. Liu, M. Yu, Z. Yang, G. Lyu.</p>
+      <p>Internation Joint Conference on Artificial Intelligence, 2025.</p>
+  </div>
+</div>
 
 <div style="font-size: 17px; display: flex; align-items: center;">
   <!-- 左边放图片 -->
