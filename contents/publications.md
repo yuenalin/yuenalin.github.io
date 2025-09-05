@@ -1,4 +1,18 @@
 
+<div style="font-size: 17px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="../static/assets/publication/tkde25_sparrow.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+      <h3>Simplified Graph Contrastive Learning Model without Augmentation</h3>
+      <a src="" target="_blank">[Paper]</a>
+      <p><strong>Y. Lin</strong>, G. Lyu, H. Cai, D. Wang, H. Wang, Z. Yang.</p>
+      <p>IEEE Transactions on Knowledge and Data Engineering, 2025.</p>
+  </div>
+</div>
+
 
 <div style="font-size: 17px; display: flex; align-items: center;">
   <!-- 左边放图片 -->
