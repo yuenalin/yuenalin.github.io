@@ -21,7 +21,7 @@
   <div style="flex: 50%;">
       <h3>CCAHCL: Multi-Level Hypergraph Contrastive Learning for Connected Component Awareness</h3>
       <a src="" target="_blank">[Paper]</a>
-      <p>Z. Li, G. Lyu, <strong>Y. Lin</strong>, H. Cai, D. Wang, H. Wang, Z. Yang.</p>
+      <p>Z. Li, G. Lyu, <strong>Y. Lin</strong>, Z. Chen, Z. Ma, Z. Yang, Z. Li.</p>
       <p>AAAI Conference on Artificial Intelligence, 2026.</p>
   </div>
 </div>
