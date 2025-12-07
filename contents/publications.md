@@ -1,3 +1,59 @@
+<div style="font-size: 17px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="../static/assets/publication/aaai26_HyperAHSF.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+      <h3>Hypergraph-Based Multi-View Multi-Label Classification via Adaptive High-Order Semantic Fusion</h3>
+      <a src="" target="_blank">[Paper]</a>
+      <p>Y. Shan, L Gao, <strong>Y. Lin</strong>, Z. Yang, G. Lyu, H. Han.</p>
+      <p>AAAI Conference on Artificial Intelligence, 2026.</p>
+  </div>
+</div>
+
+<div style="font-size: 17px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="../static/assets/publication/aaai26_CCAHCL.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+      <h3>CCAHCL: Multi-Level Hypergraph Contrastive Learning for Connected Component Awareness</h3>
+      <a src="" target="_blank">[Paper]</a>
+      <p>Z. Li, G. Lyu, <strong>Y. Lin</strong>, H. Cai, D. Wang, H. Wang, Z. Yang.</p>
+      <p>AAAI Conference on Artificial Intelligence, 2026.</p>
+  </div>
+</div>
+
+
+<div style="font-size: 17px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="../static/assets/publication/nips25_afumc.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+      <h3>AF-UMC: An Alignment-Free Fusion Framework for Unaligned Multi-View Clustering</h3>
+      <a src="" target="_blank">[Paper]</a>
+      <p>B. Sun, <strong>Y. Lin</strong>, T. Yang, Z. Zhu, Z. Yang, G. Lyu.</p>
+      <p>Neural Information Processing Systems, 2025.</p>
+  </div>
+</div>
+
+<div style="font-size: 17px; display: flex; align-items: center;">
+  <!-- 左边放图片 -->
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="../static/assets/publication/nips25_CaliGCL.png" alt="图1: 论文中的小图" width="100%">
+  </div>
+  <!-- 右边放论文介绍 -->
+  <div style="flex: 50%;">
+      <h3>CaliGCL: Calibrated Graph Contrastive Learning via Partitioned Similarity and Consistency Discrimination</h3>
+      <a src="" target="_blank">[Paper]</a>
+      <p><strong>Y. Lin</strong>, H. Wei, H. Cai, B. Sun, T. Yang, Z. Yang.</p>
+      <p>Neural Information Processing Systems, 2025.</p>
+  </div>
+</div>
 
 <div style="font-size: 17px; display: flex; align-items: center;">
   <!-- 左边放图片 -->
