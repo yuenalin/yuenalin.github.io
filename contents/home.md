@@ -16,6 +16,7 @@ B.E., Computer Science and Technology, Fujian Normal University, 2016-2020.
 Graph Contrastive learning, multi-view learning, and fuzzy deep neural network.
 
 #### Reviewers
+International Conference on Machine Learning (ICML).\
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).\
 AAAI Conference on Artificial Intelligence (AAAI).\
 International Conference on Learning Representations (ICLR).\
@@ -27,6 +28,7 @@ IEEE Transactions on Cognitive and Developmental Systems (TCDS).\
 <!-- Neurocomputing. -->
 
 ## 📢 News
+- **2026.02**: One paper has been accepted by CVPR 2026.
 - **2025.11**: Two papers have been accepted by AAAI 2026.
 - **2025.09**: Two papers have been accepted by NeurIPS 2025.
 - **2025.07**: One paper has been accepted by IEEE TKDE.
